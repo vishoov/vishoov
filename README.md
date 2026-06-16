@@ -49,6 +49,7 @@
 - 🏥 Building a full-stack **predictive analytics portal for AIIMS** — custom ML models deployed into a React/Django clinical dashboard (lead co-researcher).
 - 🩺 **Urodynamics Admin Panel** — role-based diagnostic data management portal with real-time review workflows.
 - ⚡ Scaling **Python/Flask microservices** handling high request throughput at AccioJob.
+- Building high throughput, java systems at scale
 
 ---
 
