@@ -41,10 +41,15 @@ vishoo@delhi:~$ cat about_me.txt
   ~2 years turning research + production systems into things that ship.
   Obsessed with the seam between ML models and the systems that serve them.
 
+  Build mainly in:
+    MERN · TypeScript · Next.js · Python · Java · Spring Boot · AI agents
+
   Currently:
+    - Building full-stack services in MERN @ AccioJob, at scale
     - Lead co-researcher, predictive analytics portal @ AIIMS
-    - Scaling Python/Flask microservices @ AccioJob
-    - Leveling up on high-throughput Java systems
+    - Running a real-time collaborative whiteboard in production
+      → whiteboard.rfrncs.in (TS, Next.js, RabbitMQ, Socket.io, AWS, Docker)
+    - Leveling up on high-throughput Java / Spring Boot systems
 
   Fun fact: I've stood on stage at MSIT, IIMT & VIPS talking system design
              so other engineers didn't have to learn it the hard way I did.
@@ -60,10 +65,15 @@ vishoo@delhi:~$ cat about_me.txt
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind&theme=dark" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,redis,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,django,flask,java,spring,redis&theme=dark" />
+
+### Real-time & Messaging
+<img src="https://skillicons.dev/icons?i=socketio,rabbitmq&theme=dark" />
 
 ### ML / AI
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/AI%20Agents-1a1a2e?style=for-the-badge&logo=openai&logoColor=white"/>
 
 ### Cloud & Tooling
 <img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,linux&theme=dark" />
@@ -103,18 +113,18 @@ Role-based diagnostic data management portal with real-time review workflows for
 <tr>
 <td width="50%" valign="top">
 
-### 🖊️ IdeaBoard
-Real-time collaborative whiteboard — multi-user drawing, sync, and state over WebSockets.
+### 🖊️ Collaborative Whiteboard — [whiteboard.rfrncs.in](https://whiteboard.rfrncs.in/)
+Real-time collaborative whiteboard in production. Multi-user sync over Socket.io, RabbitMQ for event/queue processing, and mailing-based security with OTP flows — deployed at scale on AWS/Docker.
 
-`React` `Node.js` `WebSockets`
+`TypeScript` `Next.js` `Socket.io` `RabbitMQ` `AWS` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Flask Microservices — AccioJob
-High-throughput backend services in production, built for scale and reliability.
+### ⚡ Full-Stack Services — AccioJob
+Building and scaling full-stack services in MERN, plus Python/Flask microservices, in production.
 
-`Python` `Flask` `Celery` `Redis`
+`MongoDB` `Express` `React` `Node.js` `Python` `Flask`
 
 </td>
 </tr>
