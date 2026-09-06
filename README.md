@@ -1,16 +1,19 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=VISHOO%20VERMA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20ML%20%C2%B7%20Systems&descAlignY=58&descSize=18" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=VISHOO%20VERMA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20ML%20%C2%B7%20Systems&descAlignY=58&descSize=18" width="100%"/> 
 
 </div>
 
 <pre align="center">
- __     _____ ____  _   _  ___   ___   __     _______ ____  __  __    _    
- \ \   / /_ _/ ___|| | | |/ _ \ / _ \  \ \   / / ____|  _ \|  \/  |  / \   
-  \ \ / / | |\___ \| |_| | | | | | | |  \ \ / /|  _| | |_) | |\/| | / _ \  
-   \ V /  | | ___) |  _  | |_| | |_| |   \ V / | |___|  _ <| |  | |/ ___ \ 
-    \_/  |___|____/|_| |_|\___/ \___/     \_/  |_____|_| \_\_|  |_/_/   \_\                   
+ ____        _ _     _   __              _____             _                     
+| __ ) _   _(_) | __| |  \ \/ /___ _ __ | ____|_ __   __ _(_)_ __   ___  ___ _ __ 
+|  _ \| | | | | |/ _` |   \  // __| '_ \|  _| | '_ \ / _` | | '_ \ / _ \/ __| '__|
+| |_) | |_| | | | (_| |   /  \\__ \ |_) | |___| | | | (_| | | | | |  __/ |   
+|____/ \__,_|_|_|\__,_|  /_/\_\___/ .__/|_____|_| |_|\__, |_|_| |_|\___|_|   
+                                   |_|                |___/                       
 </pre>
+
+
 
 <div align="center">
 
